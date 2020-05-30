@@ -1,0 +1,275 @@
+a:hover {
+    color: #197aff;
+}
+
+.text-blue {
+    color: #197aff;
+}
+
+.bg-blue {
+    background-color: #197aff;
+}
+
+.bg-dull-blue {
+    background-color: #579dfd;
+}
+
+#myBtn {
+    background-color: #197aff;
+}
+
+.slider_content_table_cell .download:after {
+    background: #197aff;
+}
+
+.slider_area .owl-theme .owl-prev:hover, .slider_area .owl-theme .owl-next:hover {
+    background: #197aff;
+    border: 1px solid #197aff;
+}
+
+.slider_area .owl-theme .owl-dots .owl-dot.active span, .slider_area .owl-theme .owl-dots .owl-dot:hover span {
+    background: #197aff;
+}
+
+.abt-icon .flat {
+    color: #197aff;
+}
+
+.about .btn-custom {
+    color: #197aff;
+    border-color: #197aff;
+}
+
+.about .btn-custom:after {
+    background: #197aff;
+}
+
+.service::before {
+    background: #197aff;
+}
+
+.portfolio .project-nav ul li.active, .portfolio .project-nav ul li:hover {
+    color: #197aff;
+    border-bottom-color: #197aff;
+}
+
+.portfolio .project-hover .icon-box:hover {
+    background: #197aff;
+    border-color: #197aff;
+}
+
+.team-hover i:hover {
+    color: #197aff;
+}
+
+.client-social i:hover {
+    color: #197aff;
+}
+
+.client-slider.owl-theme .owl-dots .owl-dot.active span,
+.client-slider.owl-theme .owl-dots .owl-dot:hover span {
+    background: #197aff;
+}
+
+.post-wrap .recent-img span {
+    background-color: #197aff;
+}
+
+.post-info .btn-custom {
+  background: #197aff;
+}
+
+.post-info .btn-custom:hover {
+    color: #197aff;
+  }
+
+  .post-image .chat {
+    background: #197aff;
+  }  
+
+  .deal-slider.owl-theme .owl-dots .owl-dot.active span,
+  .deal-slider.owl-theme .owl-dots .owl-dot:hover span {
+    background: #197aff;
+  }
+  .count {
+    color: #197aff;
+  }
+  .join {
+    background-color: #197aff 
+  }
+  .input-group-btn .btn-custom:after {
+    background: #197aff;
+  }
+  
+.foot-top .foot-icon a:hover i {
+    background: #197aff;
+  }
+  .news-post .content a:hover {
+    color: #197aff;
+  }
+  .footer .footer-bottom a:hover {
+    color: #197aff;
+  }
+  .page404 .btn-custom:hover {
+    background-color: #197aff;
+    border-color: #197aff;
+  }
+  .pricing-table.active {
+    border-color:#197aff;
+  }
+  .price-header .price-amt {
+    color: #197aff;
+  }
+  .pricing-table.active .signup-btn,
+  .pricing-table .signup-btn:hover {
+    background-color: #197aff;
+  }
+  .cd-timeline-content .cd-date{
+    background-color: #197aff;
+  }  
+  .cd-timeline-content h2 {
+    color: #197aff;
+  }
+  .member-details .team-inner .team-info .team-socials a {
+    color: #197aff;
+  }
+  
+    .member-biodata .biodata-icon {
+        color: #197aff;
+    }
+    .our-service .service-inner h3 {
+        color: #197aff;
+    }
+    .our-service .service-inner span {
+       color: #197aff;
+    }
+    .port-share .port-socials li:hover {
+        background-color: #197aff;
+        border-color: #197aff;
+    }
+    .portfolio-pagination li a.active,
+    .portfolio-pagination li a:hover {
+        background: #197aff;
+        border-color:#197aff;
+    }
+    
+    .widget .widget-title {
+        background-color: #197aff;
+    }
+
+    .widget .widget-title:before {
+      border-color:#197aff;
+    }
+    
+    .widget .widget-title:after {
+        border-top-color:#197aff;
+    }
+    
+    .widget-img:after {
+        border-color:#197aff;
+    }
+    
+    .widget .widget-name:before {
+        background: #197aff;
+    }
+    .widget-icons a:hover {
+      background: #197aff;
+      border-color: #197aff;
+    }
+    .widget .form-control {
+      border-color: #197aff;
+    }
+    .widget .btn-submit:hover {
+      background: #197aff;
+    }
+
+    .widget ul li :hover a{
+        color: #197aff;
+    }
+    .tags a {
+        border-color: #197aff;
+        color: #197aff;
+    }
+    
+    .tags a:hover {
+        background: #197aff;
+    }
+    .contact-us .contact-form .form-control:focus,
+    .contact-us .contact-form .form-control:hover {
+      border-color: #197aff;
+    }
+    .contact-form .btn-submit {
+      background: #197aff;
+    }
+    .contact-detail {
+      background: #197aff;
+    }
+    .blog-tags ul li a:hover,
+    .mini-social li a:hover{
+      background-color: #197aff;
+      border-color: #197aff;
+    }
+    .meta {
+      background-color: #197aff;
+    }
+    .post-detail h2 a:hover {
+        color: #197aff;
+      }
+      
+    .user-img:after {
+        border-color:#197aff;
+    }
+    
+    .user-comment h3 {
+        color: #197aff;
+    }
+    
+    .user-comment ul li li {
+        background-color: #197aff;
+    }
+    .comment-box h4 {
+      color: #197aff;
+    }
+    .comment-box .form-control:focus {
+      border-color:#197aff;
+    }
+
+    .comment-box .btn-submit {
+        background: #197aff;
+    }
+    .user-comment .comment-box .form-control {
+      border: 1px solid #197aff;
+    }
+    
+    nav.navbar .search i:hover {
+        color: #197aff;
+    }
+    nav.navbar .search-form input {
+        background-color: #197aff;
+    }
+    .search-form .btn-search{
+        background-color: #197aff;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        background: none;
+        color: #197aff;
+    }
+
+
+    @media only screen and (min-width: 992px) {
+
+
+        nav.navbar.bootsnav ul.nav>li:hover::before,
+        nav.navbar .active a:hover::before {
+            background: #197aff;
+        }
+        nav.navbar.bootsnav ul.navbar-right li.dropdown ul.dropdown-menu li a {
+            background: #197aff;
+        }
+    }
+    @media(max-width:992px) {
+        nav.navbar.bootsnav ul.nav>li>a:hover,
+        nav.navbar.bootsnav ul.navbar-right li.dropdown ul.dropdown-menu li a:hover {
+            color: #197aff;
+        }
+    }
